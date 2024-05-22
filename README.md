@@ -2,6 +2,8 @@
 
 A simple and flexible logging module with customizable intensity and color-coded output for enhanced readability.
 
+![Intensity Logger](image.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
