@@ -26,7 +26,7 @@ Intensity Logger is a Python logging module designed to provide simple, color-co
 You can install Intensity Logger via pip:
 
 ```bash
-pip install intensity-logger
+pip install intensity-logger==0.1.1
 ```
 
 ## Usage
